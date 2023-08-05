@@ -5,6 +5,8 @@ Just a simple store project.
 #### Stack:
 
 - [Python](https://www.python.org/downloads/)
+- [Django](https://www.djangoproject.com/)
+- [Django REST Framework](https://www.django-rest-framework.org/)
 - [PostgreSQL](https://www.postgresql.org/)
 
 ## Local Developing
