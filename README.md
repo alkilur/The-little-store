@@ -43,11 +43,12 @@ All actions should be executed from the source directory of the project and only
    EMAIL_HOST_PASSWORD=
    EMAIL_USE_SSL=
 
-   # If you prefer the Stripe payment system, use the guide:
-     https://stripe.com/docs/payments/checkout/fulfill-orders
    STRIPE_PUBLIC_KEY=
    STRIPE_SECRET_KEY=
    STRIPE_WEBHOOK_SECRET=
+
+   # If you prefer the Stripe payment system, use the guide:
+   # https://stripe.com/docs/payments/checkout/fulfill-orders
    ```
 
 4. Run project dependencies, migrations, fill the database with the fixture data etc.:
