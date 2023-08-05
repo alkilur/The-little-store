@@ -1,6 +1,6 @@
 # my-store
 
-Just a simple store project.
+Just a trainy store project.
 
 #### Stack:
 
